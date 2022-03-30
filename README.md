@@ -9,4 +9,4 @@
 
 -💞️ I’m looking to collaborate on open soruce microservices projects.
 
--📫 You can reach me on www.omerweb.net
+-📫 You can reach me on www.omerweb.net or https://tr.linkedin.com/public-profile/in/omerfarukgocgun
