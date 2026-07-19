@@ -1,7 +1,7 @@
 # Hi there 👋 
-## I’m @farukgocgun, MSc Software Engineer 
+## I’m @farukgocgun, Software Architect
 
--👀 I’m interested in software architectures, security, microsevices and machine learning.
+-👀 I’m interested in software architectures, security, and machine learning.
 
 -💞️ I’m looking to collaborate on open soruce projects.
 
