@@ -2,7 +2,7 @@
 
 10+ years of C# and .NET, building distributed systems: event-driven messaging, caching, real-time tracking, and legacy-to-services migrations. Currently Software Architect at Litum, Izmir.
 
-Izmir, Turkey · open to senior, staff, architect and tech-lead roles in the UK (relocation) or fully remote · [LinkedIn](https://www.linkedin.com/in/omerfarukgocgun) · [Email](mailto:farukgocgun@gmail.com)
+You can contact with me · [LinkedIn](https://www.linkedin.com/in/omerfarukgocgun) · [Email](mailto:farukgocgun@gmail.com)
 
 ## What I work on
 
