@@ -7,7 +7,7 @@ Izmir, Turkey · open to senior, staff, architect and tech-lead roles in the UK 
 ## What I work on
 
 - **Now, Litum:** architecting a next-generation Real-Time Location System for high-throughput position tracking, leading the progressive migration of legacy workflows, and integrating IAM/SSO with Keycloak and Okta.
-- **Dogankoc Security:** led a team of 3 building a real-time incident centre and patrol tracking system (ASP.NET 8, SignalR, Redis, RabbitMQ, PostgreSQL, Kubernetes).
+- **Pysical Security:** led a team of 3 building a real-time incident centre and patrol tracking system (ASP.NET 8, SignalR, Redis, RabbitMQ, PostgreSQL, Kubernetes).
 - **Plan A Technologies (US, remote):** .NET 6 → 8 migration, offline-capable distributed services with data sync on reconnection, and an event-driven pipeline on RabbitMQ, GraphQL and MongoDB.
 - **Sertom Software:** led a team of 5 and migrated legacy monolithic applications to microservices.
 
